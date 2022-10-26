@@ -97,13 +97,15 @@ It provide capacity reservation by purchasing in specific AZ, option to reserve 
 Types: Standard RI, COnvertible RI, schedule RI.
     
 
-- Q.1. Can I transfer a convertible or standard RI from one region to another?
+Q.1. Can I transfer a convertible or standard RI from one region to another?
 
 -> No
-- Q.2. How do you change the configuration of convertible Reserve Instance?
+
+Q.2. How do you change the configuration of convertible Reserve Instance?
 
 -> Using EC2 management console or get reserve instance management quota API
-- Q.3. Do i need to pay a fee when I exchange my convertible RI?
+
+Q.3. Do i need to pay a fee when I exchange my convertible RI?
 
 -> No
 
