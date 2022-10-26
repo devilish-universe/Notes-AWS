@@ -199,7 +199,7 @@ http://169.254.169.254/latest/meta-data/     (IPv4)
 
 or
 
-http://[fd00:ec2::254]/latest/meta-data       (IPv6)
+http://[fd00:ec2::254]/latest/meta-data/       (IPv6)
 
 The metadata of EC2 instance is not protected by an encryption, anyone who has access to the instance on get the metadata of that instance.
 
